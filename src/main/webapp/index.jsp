@@ -355,7 +355,7 @@ body{
     </h1>
 
     <p>
-        Create, manage and publish your cheatsheets easily.
+        Create,Candyyyy manage and publish your cheatsheets easily.
     </p>
 
     <div class="hero-actions">
